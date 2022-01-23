@@ -1,0 +1,229 @@
+---
+title: "SMC vs DG (2022-01-21)"
+date: 2022-01-22T10:00:00+01:00
+
+tags:
+    - "Rapport"
+    - "DeathGuard"
+---
+
+Dans ses plans de contamination/expansion de cette partie de la galaxie, Mortarion demande à ce qu'un détachement soit envoyé pour débuter la colonisation de la planète.
+Les détecteurs longue portée ont identifié une zone à fort potentiel pour débuter l'invasion de la planète.
+Cependant, les radars ont détecté la présence d'un détachement Space Marines du Chaos.
+
+Typhus et une partie de sa 1ère compagnie ont été missionné pour explorer cette nouvelle zone.
+
+== Mission
+
+[cols="1,2,2"]
+|===
+|*Mission :*
+|https://wahapedia.ru/wh40k9ed/the-rules/grand-tournament-2021/#Centre-Ground[Position central]
+|image:https://wahapedia.ru/wh40k9ed/img/maps/CentreGround2020.png[]
+
+|*Armées*
+|Space Marines du Chaos
+|DeathGuard
+
+|*Secondaires*
+a|* Assassinat
+* Sur tous les Fronts
+* Abhorrez le sorcier
+a|* Assassinat
+* Sur tous les Fronts
+* Répandre la maladie
+
+|=== 
+
+
+== Récit de l'Intendant
+
+Après être arrivé sur zone, chaque armée scrutait de loin les activités de l'autre.
+
+[NOTE]
+____
+*Round 1*
+
+Tour 1 SMC
+____
+
+Les premiers à bouger sont les SMC, ils s'approchent en restant à couvert. 
+
+Des Oblitarators sont arrivé en téléportation pour impacter le plus possible nos premières lignes.
+Mais sans doute à cause de soucis d'entretien de l'équipement, les armes n'ont pas fait les dégâts attendu
+
+Le Venomcrawler tire sur le Chenillé, mais n'entame pas beaucoup son blindage.
+
+[NOTE]
+____
+* Fin tour SMC => 2pts sur tous les fronts (Cultists + Possédé + SM)
+
+Tour 1 DG
+____
+
+Rapidement les ordres de mouvement ont été donné aux unités de la DeathGuard.
+
+Les Véroleux répandent la maladie, tel un animal qui veux marquer son territoire.
+
+Le Chenillé Crachepeste répond aux attaques et les Spaces Marines de la DeathGuard hésitent mais ne réussissent pas à charger le Venomcrawler.
+
+
+[NOTE]
+____
+* Fin tour DG => 3pts Répandre la maladie (Pox)
+
+*Round 2*
+
+Tour 2 SMC (arrivé des Terminators)
+
+* Fin phase commandement => 5pts primaire (1 central avec SM)
+____
+Les cultists changent de bâtiment de protection pour s'approcher d'un point capital.
+
+L'appel au combat semble avoir été lancé ... et en quelques secondes ... 
+
+Les terminators rouge métallique apparaissent au milieu des combats, et se ruent sur les Véroleux.
+
+Les Grands Possédés fondent en direction de Typhus qui se cache dans un bâtiment en ruine.
+
+Les SMC chargent les SM de la DG.
+
+Le Venomcrawler charge aussi et dans sa lancée, tue le Corrupteur Nidoreux.
+
+
+[NOTE]
+____
+* Fin tour => 3pts assassinats
+* Fin tour => 2pts sur tous les fronts (cultists + Termi + SM)
+
+Tour 2 DG (arrivé des Termi)
+
+* Fin phase commandement => 5pts primaire (1 central avec Pox)
+____
+Évidement, la DeathGuard fidèle à elle même, tient ses positions.
+
+Typhus se débardasse d'un de ses 2 assailants.
+
+Les Terminators rouillarques sont téléporté derrière les lignes ennemis pour les surprendre.
+Les cultists ne peuvent pas faire le poids face à notre puissance.
+
+
+[NOTE]
+____
+* Fin tour => 3pts assassinats
+* Fin tour => 2pts sur tous les fronts (SM + Pox + Termi)
+
+*Round 3*
+
+Tour 3 SMC (arrivé Warlord)
+
+* Fin phase commandement => 5pts primaire ( SMC Super OP )
+____
+Un Lord du chaos arrive sur zone, un renfort qui ne fait pas peur à la DeathGuard.
+
+Le Venomcrawler se débarrasse du Biologus qui n'explose pas ... ses potions n'avaient pas assez macérée.
+
+
+[NOTE]
+____
+* Fin tour => 3 assassinats
+* Fin tour => 2 sur tous les fronts (Warlord + Termi + SM)
+
+Tour 3 DG
+
+* Fin phase commandement => 10 primaire (Pox + Termi)
+____
+
+Typhus se débardasse du second insolent.
+
+Grace à l'aura de Typhus et des bénédictions qu'il a pu lancer, les Véroleux tiennent face aux terminators.
+
+Le Dark Apôtre n'aurait pas du s'approcher autant ... 
+
+[NOTE]
+____
+* Fin tour => 6 assassinats
+* Fin tour => 2 sur tous les fronts (SM + Pox + Termi)
+
+*Round 4*
+
+Tour 4 SMC
+
+* Fin phase commandement => 10 primaire ( SMC Super OP + Warlord )
+____
+Est ce a cause de la folie qui semble les caractériser ou parce que toutes les autres unités ont été détruite ... 
+nous ne le saurons pas, mais ce qui est certains c'est que le Lord du Chaos fonce tête baissée sur les Terminators rouillarques.
+
+Peut être une sorte d'auto-sacrifice ... étrange ...
+
+[NOTE]
+____
+Tour 4 DG
+
+* Fin phase commandement => 15 primaire (Pox + Termi + que l'adversaire)
+____
+Typhus tranche le dernier terminator en 2 et Le Lors du Chaos finit aussi par mourir.
+
+Dans une dernier effort, un SpaceMarine répands la maladie.
+
+[NOTE]
+____
+* Fin tour => 3 assassinats
+* Fin tour => 2 sur tous les fronts (SM + Pox + Termi)
+* Fin tour => 3 répandre la maladie(SM)
+
+*Round 5*
+
+Tour 5 DG
+____
+Plus aucun ennemi en vue, les détecteurs et radars n'indiquent pas de signe de vie ennemies.
+
+Le Chenillé avance suffisamment pour confirmer que la zone est nettoyé complètement.
+
+[NOTE]
+____
+* Fin tour => 15 primaire (Pox + Termi + que l'adversaire)
+* Fin tour => 3 sur tous les fronts (SM + Pox + Termi + Chenillé)
+* Fin tour => 3 répandre la maladie(Termi)
+____
+
+
+== Tableau des scores
+
+[]
+|===
+| SMC |Prendre et tenir |Assassinat |Sur tous les Fronts |Abhorrez le sorcier
+
+|*1*   |  / |  0 |  2 |  0
+|*2*   |  5 |  0 |  2 |  0
+|*3*   |  5 |  0 |  2 |  0
+|*4*   | 10 |  0 |  0 |  0
+|*5*   |  0 |  0 |  0 |  0
+|*fin* |  0 |  6 |  0 |  0
+
+| | *20* |  *6* |  *6* |  *0*
+|===
+
+Soit un total de : 32/90 => *42/100*
+
+
+[]
+|===
+| DG | Prendre et tenir | Assassinat | Sur tous les Fronts | Répandre la maladie
+
+|*1*   |  / |  0 |  0 |  3
+|*2*   |  5 |  0 |  0 |  0
+|*3*   | 10 |  0 |  2 |  0
+|*4*   | 15 |  0 |  2 |  3
+|*5*   | 15 |  0 |  3 |  3
+|*fin* |  0 | 12 |  0 |  0
+
+|   | *45* | *12* | *9* | *9*
+|===
+
+
+Soit un total de : 75/90 => *85/100*
+
+== Photos
+
+image::/images/IMG_20220121_212319.jpg[]

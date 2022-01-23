@@ -1,0 +1,18 @@
+---
+title: "Introduction"
+date: 2022-01-22T00:01:00+02:00
+
+tags:
+    - "Commun"
+
+---
+
+Je cherchais une solution pour partager ce que je fais autour de "Warhammer 40.000"
+
+Je vais m'essayer sur cet ensemble de pages qui contiendra par exemple :
+
+* Mes listes
+* Mes peintures
+* Des rapports de parties
+* ...
+
