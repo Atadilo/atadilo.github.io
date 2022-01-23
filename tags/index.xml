@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on AtadiloTho</title>
+    <link>https://atadilo.github.io/tags/</link>
+    <description>Recent content in Tags on AtadiloTho</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>© Atadilo 2022</copyright>
+    <lastBuildDate>Sat, 22 Jan 2022 10:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://atadilo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DeathGuard</title>
+      <link>https://atadilo.github.io/tags/deathguard/</link>
+      <pubDate>Sat, 22 Jan 2022 10:00:00 +0100</pubDate>
+      
+      <guid>https://atadilo.github.io/tags/deathguard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rapport</title>
+      <link>https://atadilo.github.io/tags/rapport/</link>
+      <pubDate>Sat, 22 Jan 2022 10:00:00 +0100</pubDate>
+      
+      <guid>https://atadilo.github.io/tags/rapport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Commun</title>
+      <link>https://atadilo.github.io/tags/commun/</link>
+      <pubDate>Sat, 22 Jan 2022 00:01:00 +0100</pubDate>
+      
+      <guid>https://atadilo.github.io/tags/commun/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

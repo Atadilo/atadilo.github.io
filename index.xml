@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AtadiloTho</title>
+    <link>https://atadilo.github.io/</link>
+    <description>Recent content on AtadiloTho</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>© Atadilo 2022</copyright>
+    <lastBuildDate>Sat, 22 Jan 2022 00:01:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://atadilo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SMC vs DG (2022-01-21)</title>
+      <link>https://atadilo.github.io/post/parties/smc-vs-dg-2022-01-21-2022-01-21/</link>
+      <pubDate>Sat, 22 Jan 2022 10:00:00 +0100</pubDate>
+      
+      <guid>https://atadilo.github.io/post/parties/smc-vs-dg-2022-01-21-2022-01-21/</guid>
+      <description>Context Dans ses plans de contamination/expansion de cette partie de la galaxie, Mortarion demande à ce qu&amp;#8217;un détachement soit envoyé pour débuter la colonisation de la planète. Les détecteurs longue portée ont identifié une zone à fort potentiel pour débuter l&amp;#8217;invasion de la planète. Cependant, les radars ont détecté la présence d&amp;#8217;un détachement Space Marines du Chaos.
+ Typhus et une partie de sa 1ère compagnie ont été missionné pour explorer cette nouvelle zone.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://atadilo.github.io/about/</link>
+      <pubDate>Sat, 22 Jan 2022 00:01:00 +0100</pubDate>
+      
+      <guid>https://atadilo.github.io/about/</guid>
+      <description>Bonjour,
+ La collection Hachette Conquest terminée, je me suis lancé dans des parties en Association.
+ Mes armées actuels :
+   Ultramarines
+  DeathGuard
+  Orks (wip)
+   </description>
+    </item>
+    
+    <item>
+      <title>Biblio</title>
+      <link>https://atadilo.github.io/post/biblio/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:01 +0100</pubDate>
+      
+      <guid>https://atadilo.github.io/post/biblio/</guid>
+      <description>Voici une liste non complète de mes liens favori trié par catégorie et par ordre alphabétique : Les sites Web avec de la lecture, Youtube pour des vidéo tuto et rapports de batailles et Twitch pour les lives.
+ Cela fait beaucoup de sources d&amp;#8217;informations, mais en fonction de ce que je recherche je fini par trouver mon bonheur. Certains site sont pour apprendre/comprendre comment mieux jouer, d&amp;#8217;autres sont pour le fun.</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://atadilo.github.io/post/introduction/</link>
+      <pubDate>Sat, 22 Jan 2022 00:01:00 +0200</pubDate>
+      
+      <guid>https://atadilo.github.io/post/introduction/</guid>
+      <description>Je cherchais une solution pour partager ce que je fais autour de &#34;Warhammer 40.000&#34;
+ Je vais m&amp;#8217;essayer sur cet ensemble de pages qui contiendra par exemple :
+   Mes listes
+  Mes peintures
+  Des rapports de parties
+  &amp;#8230;&amp;#8203;
+   </description>
+    </item>
+    
+  </channel>
+</rss>
