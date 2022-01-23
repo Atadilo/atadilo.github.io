@@ -1,4 +1,3 @@
-
 table {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
@@ -62,4 +61,8 @@ blockquote {
     -webkit-transform: translateX(-50%);
     -ms-transform: translateX(-50%);
     transform: translateX(-50%);
+}
+
+.tableblock {
+    margin-top: 8px;    
 }
