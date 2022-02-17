@@ -1,0 +1,200 @@
+---
+title: "DA vs DG (2022-MM-DD)"
+date: 2022-MM-DDT10:00:00+01:00
+
+tags:
+    - "Rapport"
+    - "DeathGuard"
+---
+== Context
+
+
+
+== Mission
+
+[cols="1,2,2"]
+|===
+|*Mission :*
+|https://wahapedia.ru/wh40k9ed/the-rules/grand-tournament-2021/#Resupply[Réapprovisionnement]
+|image:https://wahapedia.ru/wh40k9ed/img/maps/Resupply2020.png[]
+
+|*Armées*
+|<Opposant>
+|DeathGuard
+
+|*Secondaires*
+a|* <vide>
+* <vide>
+* <vide>
+a|* <vide>
+* <vide>
+* <vide>
+
+|=== 
+
+
+== Récit
+
+Blabla
+
+[NOTE]
+____
+*Round 1*
+
+Tour 1 <Joueur1>
+____
+
+Blabla
+
+[NOTE]
+____
+* Fin tour <Joueur1> => 
+
+Tour 1 <Joueur2>
+____
+
+Blabla
+
+[NOTE]
+____
+* Fin tour <Joueur2> => 
+
+*Round 2*
+
+Tour 2 <Joueur1> 
+
+* Fin phase commandement => 
+____
+
+Blabla 
+
+[NOTE]
+____
+* Fin tour <Joueur1> => 
+
+Tour 2 <Joueur2> 
+
+* Fin phase commandement => 
+____
+
+Blabla
+
+
+[NOTE]
+____
+* Fin tour <Joueur2> => 
+
+*Round 3*
+
+Tour 3 <Joueur1>
+
+* Fin phase commandement =>
+____
+
+Blabla
+
+[NOTE]
+____
+* Fin tour <Joueur1> => 
+
+Tour 3 <Joueur2>
+
+* Fin phase commandement => 
+____
+
+Blabla
+
+[NOTE]
+____
+* Fin tour <Joueur2> => 
+
+*Round 4*
+
+Tour 4 <Joueur1>
+
+* Fin phase commandement => 
+____
+
+Blabla
+
+[NOTE]
+____
+* Fin tour <Joueur1> => 
+
+Tour 4 <Joueur2>
+
+* Fin phase commandement => 
+____
+
+Blabla
+
+
+[NOTE]
+____
+* Fin tour <Joueur2> => 
+
+*Round 5*
+
+Tour 5 <Joueur1>
+
+* Fin phase commandement => 
+____
+
+Blabla
+
+[NOTE]
+____
+* Fin tour <Joueur1> => 
+
+Tour 5 <Joueur2>
+
+____
+
+Blabla
+
+[NOTE]
+____
+* Fin phase => 
+* Fin tour <Joueur2> => 
+____
+
+
+
+
+== Tableau des scores
+
+[]
+|===
+| <Joueur1> |Prendre et tenir |Secondaire |Secondaire |Secondaire
+
+|*1*   |  / |  0 |  0 |  0
+|*2*   |  0 |  0 |  0 |  0
+|*3*   |  0 |  0 |  0 |  0
+|*4*   |  0 |  0 |  0 |  0
+|*5*   |  0 |  0 |  0 |  0
+|*fin* |  0 |  0 |  0 |  0
+
+| | *0* |  *0* |  *0* |  *0*
+|===
+
+Soit un total de : 0/90 => *0/100*
+
+
+[]
+|===
+| DG | Prendre et tenir |Secondaire |Secondaire | Secondaire
+
+|*1*   |  / |  0 |  0 |  0
+|*2*   |  0 |  0 |  0 |  0
+|*3*   |  0 |  0 |  0 |  0
+|*4*   |  0 |  0 |  0 |  0
+|*5*   |  0 |  0 |  0 |  0
+|*fin* |  0 |  0 |  0 |  0
+
+|   | *0* | *0* | *0* | *0*
+|===
+
+
+Soit un total de : 75/90 => *85/100*
+
+== Photos

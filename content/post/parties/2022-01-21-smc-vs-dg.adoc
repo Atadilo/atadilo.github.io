@@ -6,7 +6,7 @@ tags:
     - "Rapport"
     - "DeathGuard"
 ---
-== Context
+== Context :
 
 Dans ses plans de contamination/expansion de cette partie de la galaxie, Mortarion demande à ce qu'un détachement soit envoyé pour débuter la colonisation de la planète.
 Les détecteurs longue portée ont identifié une zone à fort potentiel pour débuter l'invasion de la planète.

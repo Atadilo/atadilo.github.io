@@ -1,0 +1,223 @@
+---
+title: "DA vs DG (2022-01-30)"
+date: 2022-01-22T10:00:00+01:00
+
+tags:
+    - "Rapport"
+    - "DeathGuard"
+---
+== Context :
+
+Suite à notre arrivé sur cette nouvelle planète, nous cherchons dans les zones aux alentours des sites ou l'on pourrait trouver du matériel ou des équipements.
+
+Ce qui semble être un ancien site industriel a été repéré non loin du camp de base. 
+Une patrouille a été envoyé en exploration.
+
+En arrivant sur place, des traces de roues récente indiquent une présence qui très certainement sera hostile. 
+L'arrivée d'une patrouille de la RavenWing ne surprends pas.
+
+[NOTE]
+____
+Cet affrontement a pour but de découvrir le codex des Dark Angels et plus spécifiquement un détachement de la RavenWing.
+
+C'est pour cela que nous n'avons pas pris d'objectifs secondaires.
+____
+
+== Mission
+
+[cols="1,2,2"]
+|===
+|*Mission :*
+|https://wahapedia.ru/wh40k9ed/the-rules/grand-tournament-2021/#Resupply[Réapprovisionnement]
+|image:https://wahapedia.ru/wh40k9ed/img/maps/Resupply2020.png[]
+
+|*Armées*
+|Dark Angels
+|DeathGuard
+
+|*Secondaires*
+a|* <vide>
+* <vide>
+* <vide>
+a|* <vide>
+* <vide>
+* <vide>
+
+|=== 
+
+
+== Récit
+
+Ils nous ont vu arriver et nous prennent d'assault directement.
+Leur grande mobilité est un gros avantage pour eux. 
+
+Mais nous résisterons.
+
+[NOTE]
+____
+*Round 1*
+
+Tour 1 DA
+____
+
+Malgré ses fumigènes, le Rhino a été détruit et lors du débarquement un Marines de la Peste y est resté.
+
+[NOTE]
+____
+* [line-through]#Fin tour DA# =>
+
+Tour 1 DG
+____
+
+Le mortier n'a détruit qu'un seul Chevalier Noir.
+Nous espérions quand meme faire plus de dégats.
+
+Les Terminators du Linceul et le Seigneur du Chaos sont rapidement rentré au contact des motos au centre.
+
+[NOTE]
+____
+* [line-through]#Fin tour DG# => 
+
+*Round 2*
+
+Tour 2 DA 
+
+* Fin phase commandement => +15 pts
+____
+
+Les motos au centre prennent peur et battent en retraite.
+De leur coté, les Chevaliers Noir chargent les marines de la peste. 
+
+Le chenillé est détruit par les multi-fuseurs des 2 LandSpeeders. 
+
+[NOTE]
+____
+* [line-through]#Fin tour DA# => 
+
+Tour 2 DG 
+
+* Fin phase commandement => +5 pts
+____
+
+Les Terminators du Linceul courent apres la moto qui a battue en retraite.
+
+Le Seigneur du Chaos vient en renfort du Corrupteur Nidoreux pour taper sur les Chevalier noir.
+
+
+[NOTE]
+____
+* [line-through]#Fin tour DG# => 
+
+*Round 3*
+
+Tour 3 DA
+
+* Fin phase commandement => +15 pts
+____
+
+Léger mouvement de tous les véhicules de la RavenWing qui se positionnent pour tirer à distance au maximum.
+
+[NOTE]
+____
+* [line-through]#Fin tour DA# => 
+
+Tour 3 DG
+
+* Fin phase commandement => +10 pts
+____
+
+On essaye toujours d'aller au contact pour continuer à tuer.
+
+[NOTE]
+____
+* [line-through]#Fin tour DG# => 
+
+*Round 4*
+
+Tour 4 DA
+
+* Fin phase commandement => +10 pts
+____
+
+Blabla
+
+[NOTE]
+____
+* [line-through]#Fin tour DA# => 
+
+Tour 4 DG
+
+* Fin phase commandement => +5 pts
+____
+
+...
+
+
+[NOTE]
+____
+* [line-through]#Fin tour DG# => 
+
+*Round 5*
+
+Tour 5 DA
+
+* Fin phase commandement => +5 pts
+____
+
+...
+
+[NOTE]
+____
+* [line-through]#Fin tour DA# => 
+
+Tour 5 DG
+
+____
+
+...
+
+[NOTE]
+____
+* Fin phase => +10 pts
+* [line-through]#Fin tour DG# => 
+____
+
+
+
+== Tableau des scores
+
+[]
+|===
+| DA |Prendre et tenir |Assassinat |Sur tous les Fronts |Abhorrez le sorcier
+
+|*1*   |  / |  0 |  0 |  0
+|*2*   | 15 |  0 |  0 |  0
+|*3*   | 15 |  0 |  0 |  0
+|*4*   | 10 |  0 |  0 |  0
+|*5*   |  5 |  0 |  0 |  0
+|*fin* |  0 |  0 |  0 |  0
+
+| | *45* |  *0* |  *0* |  *0*
+|===
+
+Soit un total de : *45/45*
+
+
+[]
+|===
+| DG | Prendre et tenir | Assassinat | Sur tous les Fronts | Répandre la maladie
+
+|*1*   |  / |  0 |  0 |  0
+|*2*   |  5 |  0 |  0 |  0
+|*3*   | 10 |  0 |  0 |  0
+|*4*   |  5 |  0 |  0 |  0
+|*5*   | 10 |  0 |  0 |  0
+|*fin* |  0 |  0 |  0 |  0
+
+|   | *30* | *0* | *0* | *0*
+|===
+
+
+Soit un total de : 75/90 => *85/100*
+
+== Photos
