@@ -1,0 +1,221 @@
+---
+title: "SMC vs UltraMarines partie 2 (2022-02-19)"
+date: 2022-02-19T14:00:00+01:00
+
+tags:
+    - "Rapport"
+#    - "DeathGuard"
+    - "UltraMarines"
+    - "500pts"
+---
+== Context
+
+
+
+== Mission
+
+[cols="1,1,2"]
+|===
+|*Mission :*
+|ÉLAN DE FOI
+.2+|image:/images/missions/mission2022-23.png[]
+
+2+|*BRIEFING DE MISSION* : 
+
+Vous avez pour mission de mener un assaut total pour
+vous emparer d’un territoire vital. Les pertes seront lourdes,
+mais c’est le prix à payer pour la victoire. Ayez foi, et sachez
+que ceux qui tombent seront des martyrs honorés jusqu'à
+la fin des temps.
+
+|*Armées*
+|SMC
+|UltraMarines
+
+|*Secondaires*
+a|* <vide>
+* <vide>
+* <vide>
+a|* <vide>
+* <vide>
+* <vide>
+
+|=== 
+
+
+== Récit
+
+<à venir>
+
+////
+Blabla
+
+[NOTE]
+____
+*Round 1*
+
+Tour 1 SMC
+____
+
+Blabla
+
+[NOTE]
+____
+* Fin tour SMC => 
+
+Tour 1 UltraMarines
+____
+
+Blabla
+
+[NOTE]
+____
+* Fin tour UltraMarines => 
+
+*Round 2*
+
+Tour 2 SMC 
+
+* Fin phase commandement => 
+____
+
+Blabla 
+
+[NOTE]
+____
+* Fin tour SMC => 
+
+Tour 2 UltraMarines 
+
+* Fin phase commandement => 
+____
+
+Blabla
+
+
+[NOTE]
+____
+* Fin tour UltraMarines => 
+
+*Round 3*
+
+Tour 3 SMC
+
+* Fin phase commandement =>
+____
+
+Blabla
+
+[NOTE]
+____
+* Fin tour SMC => 
+
+Tour 3 UltraMarines
+
+* Fin phase commandement => 
+____
+
+Blabla
+
+[NOTE]
+____
+* Fin tour UltraMarines => 
+
+*Round 4*
+
+Tour 4 SMC
+
+* Fin phase commandement => 
+____
+
+Blabla
+
+[NOTE]
+____
+* Fin tour SMC => 
+
+Tour 4 UltraMarines
+
+* Fin phase commandement => 
+____
+
+Blabla
+
+
+[NOTE]
+____
+* Fin tour UltraMarines => 
+
+*Round 5*
+
+Tour 5 SMC
+
+* Fin phase commandement => 
+____
+
+Blabla
+
+[NOTE]
+____
+* Fin tour SMC => 
+
+Tour 5 UltraMarines
+
+____
+
+Blabla
+
+[NOTE]
+____
+* Fin phase => 
+* Fin tour UltraMarines => 
+____
+////
+
+
+
+== Tableau des scores
+
+
+[]
+|===
+| SMC |Prendre et tenir | Blabla |Secondaire |Secondaire |Secondaire
+
+|*1*   |  / |  0 |  0 |  0 |  0
+|*2*   |  12|  2 |  0 |  0 |  0
+|*3*   |  4 |  2 |  0 |  0 |  0
+|*4*   |  4 |  0 |  0 |  0 |  0
+|*5*   |  4 |  0 |  0 |  0 |  0
+|*fin* |  0 |  0 |  0 |  0 |  0
+
+| | *24* |  *4* |  *0* | *0* |  *0*
+|===
+
+Soit un total de : *28/45*
+
+
+[]
+|===
+| UltraMarines | Prendre et tenir | Blabla |Secondaire |Secondaire | Secondaire
+
+|*1*   |  / |  0 |  0 |  0 |  0
+|*2*   |  0 |  0 |  0 |  0 |  0
+|*3*   |  4 |  0 |  0 |  0 |  0
+|*4*   |  4 |  2 |  0 |  0 |  0
+|*5*   |  8 |  2 |  0 |  0 |  0
+|*fin* |  0 |  0 |  0 |  0 |  0
+
+|   | *16* | *4* | *0* | *0* | *0*
+|===
+
+
+Soit un total de : *20/45*
+
+== Photos
+
+image::/images/2022-02-19-1/IMG_20220219_141313.jpg[]
+image::/images/2022-02-19-1/IMG_20220219_142926.jpg[]
+image::/images/2022-02-19-1/IMG_20220219_143916.jpg[]
+image::/images/2022-02-19-1/IMG_20220219_150555.jpg[]
+image::/images/2022-02-19-1/IMG_20220219_152158.jpg[]
+image::/images/2022-02-19-1/IMG_20220219_155228.jpg[]

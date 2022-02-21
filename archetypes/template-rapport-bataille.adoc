@@ -1,26 +1,29 @@
 ---
-title: "DA vs DG (2022-MM-DD)"
+title: "<Joueur1> vs <Joueur2> (2022-MM-DD)"
 date: 2022-MM-DDT10:00:00+01:00
 
 tags:
     - "Rapport"
-    - "DeathGuard"
+#    - "DeathGuard"
+#    - "UltraMarines"
 ---
 == Context
 
 
 
-== Mission
-
-[cols="1,2,2"]
+[cols="1,1,2"]
 |===
 |*Mission :*
-|https://wahapedia.ru/wh40k9ed/the-rules/grand-tournament-2021/#Resupply[Réapprovisionnement]
-|image:https://wahapedia.ru/wh40k9ed/img/maps/Resupply2020.png[]
+|Blabla
+.2+|image:/images/missions/mission2022-XX.png[]
+
+2+|*BRIEFING DE MISSION* : 
+
+Blabla
 
 |*Armées*
-|<Opposant>
-|DeathGuard
+|<Joueur1>
+|<Joueur2>
 
 |*Secondaires*
 a|* <vide>
@@ -165,16 +168,16 @@ ____
 
 []
 |===
-| <Joueur1> |Prendre et tenir |Secondaire |Secondaire |Secondaire
+| <Joueur1> |Prendre et tenir | Blabla |Secondaire |Secondaire |Secondaire
 
-|*1*   |  / |  0 |  0 |  0
-|*2*   |  0 |  0 |  0 |  0
-|*3*   |  0 |  0 |  0 |  0
-|*4*   |  0 |  0 |  0 |  0
-|*5*   |  0 |  0 |  0 |  0
-|*fin* |  0 |  0 |  0 |  0
+|*1*   |  / |  0 |  0 |  0 |  0
+|*2*   |  0 |  0 |  0 |  0 |  0
+|*3*   |  0 |  0 |  0 |  0 |  0
+|*4*   |  0 |  0 |  0 |  0 |  0
+|*5*   |  0 |  0 |  0 |  0 |  0
+|*fin* |  0 |  0 |  0 |  0 |  0
 
-| | *0* |  *0* |  *0* |  *0*
+| | *0* |  *0* |  *0* | *0* |  *0*
 |===
 
 Soit un total de : 0/90 => *0/100*
@@ -182,19 +185,20 @@ Soit un total de : 0/90 => *0/100*
 
 []
 |===
-| DG | Prendre et tenir |Secondaire |Secondaire | Secondaire
+| <Joueur2> | Prendre et tenir | Blabla |Secondaire |Secondaire | Secondaire
 
-|*1*   |  / |  0 |  0 |  0
-|*2*   |  0 |  0 |  0 |  0
-|*3*   |  0 |  0 |  0 |  0
-|*4*   |  0 |  0 |  0 |  0
-|*5*   |  0 |  0 |  0 |  0
-|*fin* |  0 |  0 |  0 |  0
+|*1*   |  / |  0 |  0 |  0 |  0
+|*2*   |  0 |  0 |  0 |  0 |  0
+|*3*   |  0 |  0 |  0 |  0 |  0
+|*4*   |  0 |  0 |  0 |  0 |  0
+|*5*   |  0 |  0 |  0 |  0 |  0
+|*fin* |  0 |  0 |  0 |  0 |  0
 
-|   | *0* | *0* | *0* | *0*
+|   | *0* | *0* | *0* | *0* | *0*
 |===
 
 
-Soit un total de : 75/90 => *85/100*
+Soit un total de : 0/90 => *0/100*
 
 == Photos
+

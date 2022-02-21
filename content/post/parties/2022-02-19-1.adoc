@@ -1,0 +1,215 @@
+---
+title: "SMC vs UltraMarines partie 1 (2022-02-19)"
+date: 2022-02-19T10:00:00+01:00
+
+tags:
+    - "Rapport"
+#    - "DeathGuard"
+    - "UltraMarines"
+    - "500pts"
+---
+== Context
+
+
+
+== Mission
+
+[cols="1,1,2"]
+|===
+|*Mission :*
+|*ÉLAN DE FOI*
+.2+|image:/images/missions/mission2022-23.png[]
+
+2+|*BRIEFING DE MISSION* : 
+
+Vous avez pour mission de mener un assaut total pour
+vous emparer d’un territoire vital. Les pertes seront lourdes,
+mais c’est le prix à payer pour la victoire. Ayez foi, et sachez
+que ceux qui tombent seront des martyrs honorés jusqu'à
+la fin des temps.
+
+|*Armées*
+|SMC
+|UltraMarines
+
+|*Secondaires*
+a|* <vide>
+* <vide>
+* <vide>
+a|* <vide>
+* <vide>
+* <vide>
+
+|=== 
+
+
+== Récit
+
+<à venir>
+////
+[NOTE]
+____
+*Round 1*
+
+Tour 1 SMC
+____
+
+Blabla
+
+[NOTE]
+____
+* Fin tour SMC => 
+
+Tour 1 UM
+____
+
+Blabla
+
+[NOTE]
+____
+* Fin tour UM => 
+
+*Round 2*
+
+Tour 2 SMC 
+
+* Fin phase commandement => +4pts
+____
+
+Blabla 
+
+[NOTE]
+____
+* Fin tour SMC => +2pts
+
+Tour 2 UM 
+
+* Fin phase commandement => +4pts
+____
+
+Blabla
+
+
+[NOTE]
+____
+* Fin tour UM => 
+
+*Round 3*
+
+Tour 3 SMC
+
+* Fin phase commandement => +8pts
+____
+
+Blabla
+
+[NOTE]
+____
+* Fin tour SMC => +2pts
+
+Tour 3 UM
+
+* Fin phase commandement => 
+____
+
+Blabla
+
+[NOTE]
+____
+* Fin tour UM => 
+
+*Round 4*
+
+Tour 4 SMC
+
+* Fin phase commandement => 
+____
+
+Blabla
+
+[NOTE]
+____
+* Fin tour SMC => 
+
+Tour 4 UM
+
+* Fin phase commandement => 
+____
+
+Blabla
+
+
+[NOTE]
+____
+* Fin tour UM => 
+
+*Round 5*
+
+Tour 5 SMC
+
+* Fin phase commandement => 
+____
+
+Blabla
+
+[NOTE]
+____
+* Fin tour SMC => 
+
+Tour 5 UM
+
+____
+
+Blabla
+
+[NOTE]
+____
+* Fin phase => 
+* Fin tour UM => 
+____
+////
+
+
+
+== Tableau des scores
+
+[]
+|===
+| SMC |Prendre et tenir | Élan de foi |Secondaire |Secondaire |Secondaire
+
+|*1*   |  / |  0 |  0 |  0 |  0
+|*2*   |  4 |  2 |  0 |  0 |  0
+|*3*   |  8 |  2 |  0 |  0 |  0
+|*4*   |  12|  2 |  0 |  0 |  0
+|*5*   |  12|  2 |  0 |  0 |  0
+|*fin* |  0 |  0 |  0 |  0 |  0
+
+| | *36* |  *8* |  *0* | *0* |  *0*
+|===
+
+Soit un total de : *44/45*
+
+
+[]
+|===
+| UltraMarines | Prendre et tenir | Élan de foi |Secondaire |Secondaire | Secondaire
+
+|*1*   |  / |  0 |  0 |  0 |  0
+|*2*   |  4 |  0 |  0 |  0 |  0
+|*3*   |  0 |  0 |  0 |  0 |  0
+|*4*   |  0 |  0 |  0 |  0 |  0
+|*5*   |  0 |  0 |  0 |  0 |  0
+|*fin* |  0 |  0 |  0 |  0 |  0
+
+|   | *4* | *0* | *0* | *0* | *0*
+|===
+
+
+Soit un total de : *4/45*
+
+== Photos
+
+image::/images/2022-02-19-1/IMG_20220219_111350.jpg[]
+image::/images/2022-02-19-1/IMG_20220219_111640.jpg[]
+image::/images/2022-02-19-1/IMG_20220219_114747.jpg[]
+image::/images/2022-02-19-1/IMG_20220219_122534.jpg[]
