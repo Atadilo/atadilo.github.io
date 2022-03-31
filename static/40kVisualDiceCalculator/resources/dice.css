@@ -1,0 +1,41 @@
+.output {
+    float: left;
+}
+
+.chart {
+    width: 260px;
+    height: 200px;
+}
+
+.endnote {
+    clear: both;
+    font-size: 75%;
+}
+
+.description {
+    color: grey;
+    font-style: italic;
+}
+
+.stats {
+    display: inline-block;    
+}
+
+.attack_stats, .defense_stats {
+    display: block;
+    float: left;
+    width: 50%;
+}
+
+label {
+    display: inline-block;
+    width: 120px;
+}
+
+.attack_modifier, .defense_modifier {
+    margin-left: 40px;
+}
+
+.chart_text {
+    margin-left: 30px;
+}
