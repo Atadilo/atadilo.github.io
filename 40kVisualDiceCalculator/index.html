@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <title>40K Visual Dice Calculator (9th Ed)</title>
+    <link href="./resources/dice.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="./resources/dice-1584337547.js"></script>
+    <script type="text/javascript" src="./resources/Chart.js"></script>
+</head>
+
+<body onload="init_40k()">
+    <h1>40K Visual Dice Calculator (9th Ed)</h1>
+
+    <div class="stats">
+        <div class="attack_stats">
+            <h2>Stats d'attaque</h2>
+            <p><label for="attacks">Nb attaques:</label><input type="text" id="attacks">
+                <span class="description">Ex: 4, 2d6</span>
+            </p>
+            <p><label for="bs">CC/CT:</label><input type="text" id="bs">
+                <span class="description">Ex: 4, leave blank to auto-hit</span>
+            </p>
+            <div class="attack_modifier">
+                <p><label for="hit_mod">Modif touches:</label><input type="text" id="hit_mod"></label>
+                    <span class="description">Ex: 1, -2</span>
+                </p>
+                <p>
+                    <label>Hit rolls of 6:</label><select id="hit_of_6">
+                        <option value="">Do nothing special</option>
+                        <option value="1roll">Generate 1 extra hit roll</option>
+                        <option value="1">Generate 1 extra hit</option>
+                        <option value="2">Generate 2 extra hits</option>
+                        <option value="autowound">Automatically pass their wound roll</option>
+                        <option value="+mortal">Deal 1 mortal wound in addition to regular damage</option>
+                        <option value="mortal">Deal their damage as mortal wounds</option>
+                    </select>
+                </p>
+                <p>
+                    <label>Reroll:</label><select id="hit_reroll">
+                        <option value="">No hit rolls</option>
+                        <option value="1">Hit rolls of 1</option>
+                        <option value="fail">Failed hit rolls</option>
+                    </select>
+                </p>
+            </div>
+            <p><label for="s">Force:</label><input type="text" id="s">
+                <span class="description">Ex: 4, leave blank to auto-wound</span>
+            </p>
+            <div class="attack_modifier">
+                <p><label for="wound_mod">Modif blessures:</label><input type="text" id="wound_mod">
+                    <span class="description">Ex: 1, -2</span>
+                </p>
+                <p>
+                    <label for="wound_of_6">Wound rolls of 6:</label><select id="wound_of_6">
+                        <option value="">Do nothing special</option>
+                        <option value="-1">Are resolved with -1 to AP</option>
+                        <option value="-3">Are resolved with -3 to AP</option>
+                        <option value="-4">Are resolved with -4 to AP</option>
+                        <option value="+mortal">Deal 1 mortal wound in addition to regular damage</option>
+                        <option value="mortal">Deal their damage as mortal wounds</option>
+                    </select>
+                </p>
+                <p>
+                    <label>Reroll:</label><select id="wound_reroll">
+                        <option value="">No wound rolls</option>
+                        <option value="1">Wound rolls of 1</option>
+                        <option value="fail">Failed wound rolls</option>
+                    </select>
+                </p>
+            </div>
+            <p><label>AP:</label><input type="text" id="ap">
+                <span class="description">Ex: -1, 2 (sign is ignored)</span>
+            </p>
+            <p><label>Dégats:</label><input type="text" id="d" value="1"></p>
+        </div>
+        <div class="defense_stats">
+            <h2>Defense Stats</h2>
+            <p><label for="t">Endurance:</label><input type="text" id="t">
+                <span class="description">Ex: 4, leave blank to auto-wound</span>
+            </p>
+            <p><label for="save">Save:</label><input type="text" id="save">
+                <span class="description">Ex: 4</span>
+            </p>
+
+            <div class="defense_modifier">
+                <p><label for="save_mod">Save Modifier:</label><input type="text" id="save_mod">
+                    <span class="description">Ex: 1, -2</span>
+                </p>
+                <p>
+                    <label><input type="checkbox" id="cover" value="1">Cover</label>
+                </p>
+            </div>
+
+            <p><label for="invulnerable">Invu:</label><input type="text" id="invulnerable">
+                <span class="description">Ex: 4</span>
+            </p>
+            <p>
+                <label>Reroll:</label> <select id="save_reroll">
+                    <option value="">No save rolls</option>
+                    <option value="1">Any save rolls of 1</option>
+                    <option value="fail">Any failed save rolls</option>
+                    <option value="inv_1">Invulnerable save rolls of 1</option>
+                    <option value="inv_fail">Failed invulnerable save rolls</option>
+                </select>
+            </p>
+            <p><label for="wounds">Wounds per model:</label><input type="text" id="wounds">
+                <span class="description">Ex: 1, 13, leave blank if you don't care</span>
+            </p>
+            Shake off damage: <select id="shake">
+                <option value="">Never</option>
+                <option value="6">On a roll of 6</option>
+                <option value="56">On a roll of 5 or 6</option>
+                <option value="quantum">Roll under the damage value</option>
+            </select>
+        </div>
+    </div>
+    <p><button onclick="roll_40k()">Roll</button></p>
+    <div>
+        <div class="output">
+            <div class="chart"><iframe class="chartjs-hidden-iframe" tabindex="-1"
+                    style="display: block; overflow: hidden; border: 0px; margin: 0px; inset: 0px; height: 100%; width: 100%; position: absolute; pointer-events: none; z-index: -1;"
+                    src="./resources/iframecontent.html"></iframe>
+                <canvas id="attack_chart" width="260" height="200"
+                    style="display: block; width: 260px; height: 200px;"></canvas>
+            </div>
+            <p class="chart_text" id="attack_text">Expected: 1</p>
+        </div>
+        <div class="output">
+            <div class="chart"><iframe class="chartjs-hidden-iframe" tabindex="-1"
+                    style="display: block; overflow: hidden; border: 0px; margin: 0px; inset: 0px; height: 100%; width: 100%; position: absolute; pointer-events: none; z-index: -1;"
+                    src="./resources/iframecontent.html"></iframe>
+                <canvas id="hit_chart" width="260" height="200"
+                    style="display: block; width: 260px; height: 200px;"></canvas>
+            </div>
+            <p class="chart_text" id="hit_text">Expected: 0.67</p>
+        </div>
+        <div class="output">
+            <div class="chart"><iframe class="chartjs-hidden-iframe" tabindex="-1"
+                    style="display: block; overflow: hidden; border: 0px; margin: 0px; inset: 0px; height: 100%; width: 100%; position: absolute; pointer-events: none; z-index: -1;"
+                    src="./resources/iframecontent.html"></iframe>
+                <canvas id="wound_chart" width="260" height="200"
+                    style="display: block; width: 260px; height: 200px;"></canvas>
+            </div>
+            <p class="chart_text" id="wound_text">Expected: 0.33</p>
+        </div>
+        <div class="output">
+            <div class="chart"><iframe class="chartjs-hidden-iframe" tabindex="-1"
+                    style="display: block; overflow: hidden; border: 0px; margin: 0px; inset: 0px; height: 100%; width: 100%; position: absolute; pointer-events: none; z-index: -1;"
+                    src="./resources/iframecontent.html"></iframe>
+                <canvas id="unsaved_chart" width="260" height="200"
+                    style="display: block; width: 260px; height: 200px;"></canvas>
+            </div>
+            <p class="chart_text" id="unsaved_text">Expected: 0.17</p>
+        </div>
+        <div class="output">
+            <div class="chart"><iframe class="chartjs-hidden-iframe" tabindex="-1"
+                    style="display: block; overflow: hidden; border: 0px; margin: 0px; inset: 0px; height: 100%; width: 100%; position: absolute; pointer-events: none; z-index: -1;"
+                    src="./resources/iframecontent.html"></iframe>
+                <canvas id="damage_chart" width="260" height="200"
+                    style="display: block; width: 260px; height: 200px;"></canvas>
+            </div>
+            <p class="chart_text" id="damage_text">Expected: 0.17</p>
+        </div>
+        <div class="output">
+            <div class="chart"><iframe class="chartjs-hidden-iframe" tabindex="-1"
+                    style="display: block; overflow: hidden; border: 0px; margin: 0px; inset: 0px; height: 100%; width: 100%; position: absolute; pointer-events: none; z-index: -1;"
+                    src="./resources/iframecontent.html"></iframe>
+                <canvas id="killed_chart" width="260" height="200"
+                    style="display: block; width: 260px; height: 200px;"></canvas>
+            </div>
+            <p class="chart_text" id="killed_text">Expected: 0</p>
+        </div>
+    </div>
+    <p class="endnote">
+        This tool was initialy created by <a href="http://ghostlords.com/">Jonathan Polley</a> to help enhance your
+        enjoyment of Warhammer 40000. <a href="http://40k.ghostlords.com/dice/">http://40k.ghostlords.com/dice/</a><br>
+        
+        <a href="https://www.games-workshop.com/Warhammer-40-000">Warhammer 40000</a> is © Games Workshop Limited.<br>
+    </p>
+
+
+</body>
+
+</html>
