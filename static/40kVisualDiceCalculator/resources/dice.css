@@ -18,13 +18,15 @@
 }
 
 .stats {
-    display: inline-block;    
+    display: flex;
+    flex-wrap: wrap;
 }
 
-.attack_stats, .defense_stats {
-    display: block;
-    float: left;
-    width: 50%;
+.attack_stats,
+.defense_stats {
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid grey;
 }
 
 label {
@@ -32,8 +34,9 @@ label {
     width: 120px;
 }
 
-.attack_modifier, .defense_modifier {
-    margin-left: 40px;
+.attack_modifier,
+.defense_modifier {
+    margin-left: 20px;
 }
 
 .chart_text {
